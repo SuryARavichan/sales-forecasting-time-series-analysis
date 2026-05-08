@@ -1,0 +1,21 @@
+Project Structure
+
+sales-forecasting-time-series-analysis/
+│
+├── data/
+│   └── stores_sales_forecasting.csv
+│
+├── notebooks/
+│   └── sales_forecasting.ipynb
+│
+├── images/
+│   ├── sales_trend.png
+│   ├── prophet_forecast.png
+│   └── lstm_forecast.png
+│
+├── models/
+│   └── saved_models
+│
+├── requirements.txt
+├── README.md
+└── LICENSE
